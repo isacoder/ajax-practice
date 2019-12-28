@@ -10,7 +10,7 @@
     "react-scripts": "^3.0.1",
     "sshpk": "^1.16.1",
     "clean-css": "4.1.11",
-    "handlebars": "^4.0.14"
+    "handlebars": "^4.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
